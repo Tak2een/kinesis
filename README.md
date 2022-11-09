@@ -1,3 +1,6 @@
+# Guide Reference
+  https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c
+
 # Amazon Kinesis Video Streams WebRTC SDK for JavaScript
 
 [![NPM version](https://img.shields.io/npm/v/amazon-kinesis-video-streams-webrtc.svg?style=flat-square)](https://www.npmjs.com/package/amazon-kinesis-video-streams-webrtc)
